@@ -23,7 +23,7 @@ echo "OPENAI_API_KEY=sk-..." > .env          # or .streamlit/secrets.toml
 
 streamlit run scripts/streamlit_app.py
 
----
+```
 
 ## 🔧 Usage & Pipeline Tuning
 
@@ -77,6 +77,7 @@ The pipeline runs in two phases so you can **approve the font mapping**:
      "font_size": 27.96,
      "classification": "header"        // change from 'remove' → 'header'
    }
+    ```
 
 💰 Session usage — Prompt  823 tok, Completion  207 tok  •  Est. cost $0.031
 
