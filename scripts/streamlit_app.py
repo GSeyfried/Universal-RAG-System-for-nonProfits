@@ -47,7 +47,6 @@ if secrets:
     USER = secrets.get("username")
     PASS = secrets.get("password")
 
-    # store login flag in session_state
     if "authenticated" not in st.session_state:
         st.session_state.authenticated = False
 
@@ -57,9 +56,14 @@ if secrets:
             u = st.text_input("Username")
             p = st.text_input("Password", type="password")
             ok = st.form_submit_button("Log in")
-            if ok and u == USER and p == PASS:
-                st.session_state.authenticated = True
-                st.experimental_rerun()
+
+            if ok:
+                if u == USER and p == PASS:
+                    st.session_state.authenticated = True
+                    st.success("✅ Login successful. Please continue.")
+                else:
+                    st.error("❌ Invalid credentials.")
+
             st.stop()
             
 # ─── Helpers ───────────────────────────────────────────────────────────────
