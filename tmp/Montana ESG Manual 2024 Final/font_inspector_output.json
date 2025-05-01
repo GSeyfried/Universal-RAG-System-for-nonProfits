@@ -1,0 +1,227 @@
+{
+  "font_sizes": [
+    {
+      "font_size": 6.96,
+      "font_names": [
+        "Calibri"
+      ],
+      "spans": 2,
+      "avg_length": 2.0,
+      "pct_upper": 0.0,
+      "pct_top": 0.0,
+      "pct_punct": 0.0,
+      "score": -0.0,
+      "classification": "remove",
+      "examples": [
+        "rd",
+        "th"
+      ]
+    },
+    {
+      "font_size": 8.04,
+      "font_names": [
+        "Calibri",
+        "TimesNewRomanPSMT"
+      ],
+      "spans": 9,
+      "avg_length": 35.1,
+      "pct_upper": 0.78,
+      "pct_top": 0.0,
+      "pct_punct": 0.04,
+      "score": 0.37,
+      "classification": "remove",
+      "examples": [
+        "The Montana Department of Public Health and Human Services is Committed to providing all persons wit",
+        "programs, activities, education, and employment regardless of race, color, national origin, religion",
+        "ECTION",
+        "ECTION",
+        "ECTION",
+        "ECTION",
+        "ECTION",
+        "ECTION",
+        "ECTION"
+      ]
+    },
+    {
+      "font_size": 9.0,
+      "font_names": [
+        "Calibri",
+        "TimesNewRomanPSMT"
+      ],
+      "spans": 132,
+      "avg_length": 82.3,
+      "pct_upper": 0.0,
+      "pct_top": 0.0,
+      "pct_punct": 0.77,
+      "score": -0.03,
+      "classification": "body",
+      "examples": [
+        "Sub-subrecipient",
+        "....................................................................................................",
+        "Subcontractor",
+        "....................................................................................................",
+        "Essential Services",
+        "....................................................................................................",
+        "Essential Services",
+        "....................................................................................................",
+        "Shelter Maintenance / Operations",
+        "...................................................................................................."
+      ]
+    },
+    {
+      "font_size": 9.96,
+      "font_names": [
+        "Calibri",
+        "Calibri-Bold",
+        "Calibri-Italic",
+        "TimesNewRomanPS-ItalicMT",
+        "TimesNewRomanPSMT"
+      ],
+      "spans": 117,
+      "avg_length": 54.7,
+      "pct_upper": 0.53,
+      "pct_top": 0.0,
+      "pct_punct": 0.81,
+      "score": 0.24,
+      "classification": "body",
+      "examples": [
+        "EMERGENCY SOLUTIONS GRANT PROGRAM MANUAL",
+        ".............................................................................",
+        "1",
+        "S",
+        "1:",
+        "PROGRAM",
+        "DESCRIPTION",
+        "....................................................................................................",
+        "PURPOSE",
+        "...................................................................................................."
+      ]
+    },
+    {
+      "font_size": 11.04,
+      "font_names": [
+        "Calibri",
+        "Calibri-Bold",
+        "Calibri-BoldItalic",
+        "Calibri-Italic",
+        "Cambria-Bold",
+        "Cambria-BoldItalic",
+        "CourierNewPSMT",
+        "SymbolMT",
+        "TimesNewRomanPSMT",
+        "Wingdings-Regular"
+      ],
+      "spans": 4994,
+      "avg_length": 48.7,
+      "pct_upper": 0.0,
+      "pct_top": 0.04,
+      "pct_punct": 0.02,
+      "score": -0.01,
+      "classification": "body",
+      "examples": [
+        "02/01/2024",
+        "Page 1 of 102",
+        "February 2024",
+        "The manual and guides provide a basic overview of the Emergency Solutions Grant Program and its elig",
+        "activities and requirements. It is to be used by subrecipients to implement their programs. Policies",
+        "procedures may be updated as the need arises. They are not intended to replace existing guidance",
+        "produced by HUD. Additional program information can be found on the",
+        "HUD Exchange ESG Page.",
+        "02/01/2024",
+        "Page 2 of 102"
+      ]
+    },
+    {
+      "font_size": 11.52,
+      "font_names": [
+        "Calibri"
+      ],
+      "spans": 3,
+      "avg_length": 47.0,
+      "pct_upper": 0.0,
+      "pct_top": 0.0,
+      "pct_punct": 0.01,
+      "score": -0.02,
+      "classification": "remove",
+      "examples": [
+        "24 CFR",
+        "are required to participate in the centralized or coordinated assessment and intake",
+        "system when it becomes available in their community."
+      ]
+    },
+    {
+      "font_size": 12.0,
+      "font_names": [
+        "Cambria-Bold"
+      ],
+      "spans": 37,
+      "avg_length": 24.5,
+      "pct_upper": 0.95,
+      "pct_top": 0.0,
+      "pct_punct": 0.0,
+      "score": 0.46,
+      "classification": "header",
+      "examples": [
+        "PURPOSE",
+        "PROGRAM ADMINISTRATION",
+        "SUB-SUBRECIPIENTS AND SUBCONTRACTORS",
+        "MONITORING",
+        "COORDINATION",
+        "CONSULTATION WITH HOMELESS CONTINUUM OF CARE PROGRAMS",
+        "THE CONSOLIDATED PLAN",
+        "STREET OUTREACH",
+        "EMERGENCY SHELTER",
+        "HOMELESSNESS PREVENTION (HP)"
+      ]
+    },
+    {
+      "font_size": 12.96,
+      "font_names": [
+        "Cambria-Bold"
+      ],
+      "spans": 1,
+      "avg_length": 29.0,
+      "pct_upper": 0.0,
+      "pct_top": 0.0,
+      "pct_punct": 0.0,
+      "score": -0.01,
+      "classification": "subheader",
+      "examples": [
+        "Program Policies & Procedures"
+      ]
+    },
+    {
+      "font_size": 14.04,
+      "font_names": [
+        "Calibri",
+        "Calibri-Bold",
+        "Cambria-Bold"
+      ],
+      "spans": 213,
+      "avg_length": 43.1,
+      "pct_upper": 0.0,
+      "pct_top": 0.96,
+      "pct_punct": 0.0,
+      "score": 0.27,
+      "classification": "subheader",
+      "examples": [
+        "Montana Department of Public Health and Human Services",
+        "Emergency Solutions Grant Program",
+        "Emergency Solutions Grant Program Manual",
+        "Montana Department of Public Health and Human Services",
+        "Emergency Solutions Grant Program",
+        "Table of Contents",
+        "Montana Department of Public Health and Human Services",
+        "Emergency Solutions Grant Program",
+        "Montana Department of Public Health and Human Services",
+        "Emergency Solutions Grant Program"
+      ]
+    }
+  ],
+  "remove_texts": [
+    "Montana Department of Public Health and Human Services",
+    "Emergency Solutions Grant Program",
+    "Montana Department of Public Health and Human Services Emergency Solutions Grant Program",
+    "02/01/2024"
+  ]
+}
